@@ -55,11 +55,8 @@ Para ejecutar este notebook, necesitarás:
 
 3. Abre y ejecuta el notebook:
    ```bash
-   jupyter notebook proyecto_10.ipynb
+   jupyter notebook proyecto_11.ipynb
    ```
-
-## Resultados esperados
-Al finalizar el análisis, se obtendrá una lista de las ubicaciones con mayor productividad estimada, lo que permitirá a **OilyGiant** tomar decisiones basadas en datos.
 
 ## Contribuciones
 Si deseas contribuir:
